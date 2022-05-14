@@ -1,0 +1,122 @@
+body {
+	background-color: #edeef0;
+	padding: 0;
+	margin: 0;
+	font-family: 'Arial', sans-serif;
+	font-size: 14px;
+}
+
+.header {
+	height: 50px;
+	width: 100%;
+	left: 0;
+	top: 0;
+	z-index: 120;
+	direction: ltr;
+}
+
+.header-blue {
+	position: absolute;
+	background: #4a76a8;
+	box-sizing: border-box;
+	border-bottom: 1px solid #4872a3;
+}
+
+.wrap {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.wrap-top {
+	margin: 75px auto;
+	background-color: #fafbfc;
+	padding: 10px 20px;
+	border-radius: 4px;
+	box-shadow: 0 1px 0 0 #d7d8db,0 0 0 1px #e3e4e8;
+}
+
+.img-fluid {
+	max-height: 150px;
+	border-radius: 5px;
+	box-shadow: 0 1px 0 0 #d7d8db,0 0 0 1px #e3e4e8;
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.flex-item {
+	padding: 0.5em 1em 1em 0;
+	position: relative;
+}
+
+.game-name {
+	margin: 3px 0 5px;
+	max-width: 105px;
+}
+
+.game-name span {
+	font-size: 11px;
+}
+
+.game-field-items {
+	font-size: 11px;
+	color: #000;
+	background: #ffcb00;
+	display: inline-block;
+	padding: 3px 5px;
+	border-radius: 3px 3px 3px 4px;
+}
+
+.my-3 {
+	margin: 0 0 5px;
+	border-bottom: 1px solid #ddd;
+	padding: 0 0 3px 3px;
+}
+
+.icon {
+	height: 30px;
+	display: inline-block;
+	width: 30px;
+	padding: 2px 5px 0px 5px;
+}
+
+.icon svg {
+	fill: #224b7a;
+	height: 30px;
+}
+
+.icon-text {
+	color: #224b7a;
+	font-size: 12px;
+	text-align: center;
+	margin-top: -6px;
+}
+
+.icon-item {
+	display: inline-block;
+	width: 50px;
+	text-align: center;
+	height: 50px;
+	position: relative;
+}
+
+.labels-block {
+	position: absolute;
+	top: 138px;
+}
+
+.icon-count {
+	position: absolute;
+	top: 4px;
+	background: #fff;
+	border-radius: 50px;
+	font-size: 9px;
+	right: -6px;
+	text-align: center;
+	width: 15px;
+	height: 15px;
+	line-height: 15px;
+	font-weight: bold;
+}
