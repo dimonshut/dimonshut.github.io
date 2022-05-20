@@ -51,16 +51,16 @@ body {
 	position: relative;
 }
 
-.game-name {
+.item-name {
 	margin: 3px 0 5px;
 	max-width: 105px;
 }
 
-.game-name span {
+.item-name span {
 	font-size: 11px;
 }
 
-.game-field-items {
+.item-field {
 	font-size: 11px;
 	color: #000;
 	background: #ffcb00;
@@ -95,11 +95,23 @@ body {
 }
 
 .icon-item {
+	margin-right: 20px;
 	display: inline-block;
 	width: 50px;
 	text-align: center;
 	height: 50px;
 	position: relative;
+	opacity: 0.7;
+	transition: all 0.3s;
+}
+
+.icon-item.active {
+	opacity: 1;
+}
+
+.icon-item:hover {
+	cursor: pointer;
+	opacity: 1;
 }
 
 .labels-block {
@@ -119,4 +131,12 @@ body {
 	height: 15px;
 	line-height: 15px;
 	font-weight: bold;
+}
+
+.wrap-item {
+	display: none;
+}
+
+.wrap-item.active {
+	display: block;
 }
