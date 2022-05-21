@@ -18,8 +18,8 @@ window.onload = function() {
 	}
 
 	function showActiveArea($index) {
-		let $currentArea = document.querySelector('.js-area.active');
-	 	let $activeArea = document.querySelectorAll('.wrap-item')[$index];
+		let $currentArea = document.querySelector('.js-area.active'),
+	 		$activeArea = document.querySelectorAll('.wrap-item')[$index];
 		$currentArea.classList.remove('active');
 		$activeArea.classList.add('active');
 	}
