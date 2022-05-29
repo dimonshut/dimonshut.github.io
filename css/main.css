@@ -41,7 +41,7 @@ body {
 	box-shadow: 0 1px 0 0 #d7d8db,0 0 0 1px #e3e4e8;
 }
 
-.row {
+.items {
 	display: flex;
 	flex-wrap: wrap;
 }
@@ -69,7 +69,7 @@ body {
 	border-radius: 3px 3px 3px 4px;
 }
 
-.my-3 {
+.section-title {
 	margin: 0 0 5px;
 	border-bottom: 1px solid #ddd;
 	padding: 0 0 3px 3px;

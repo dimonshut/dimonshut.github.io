@@ -1,0 +1,12 @@
+$educationData = [
+	{
+		"title" : "ITVDN",
+		"items" : [
+			{
+				"title" : "PHP Стартовый renewed",
+				"date" : "20.05.2022",
+				"img" : "img/education/TP86396263-front.jpg",
+			},
+		]
+	},
+];
