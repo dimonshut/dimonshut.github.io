@@ -57,7 +57,7 @@ body {
 }
 
 .item-name span {
-	font-size: 11px;
+	font-size: 12px;
 }
 
 .item-field {
@@ -152,4 +152,30 @@ body {
 
 .wrap-item.active {
 	display: block;
+}
+
+
+/*
+ * NEW THEME
+ */
+/**/ 
+.header-blue {
+	position: absolute;
+	background: #2f3c4e;
+	box-sizing: border-box;
+	border-bottom: 1px solid #2f3c4e;
+}
+.active .icon-count {
+	background-color: #fb097a;
+	color: #fff;
+}
+.icon svg {
+	fill: #eff6ff;
+	height: 30px;
+}
+.icon-text {
+	color: #eff6ff;
+	font-size: 12px;
+	text-align: center;
+	margin-top: -6px;
 }

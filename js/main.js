@@ -19,7 +19,8 @@ window.onload = function() {
 				$html += getItemHTML($item);
 			});
 
-			$html += '</div></section>';
+			$html += '</div>';
+			$html += '</section>';
 		});
 		$mainWrap.innerHTML = $html;
 	}
@@ -92,12 +93,11 @@ window.onload = function() {
 		const observer = new IntersectionObserver((entries, observer) => {
 			entries.forEach(entry => {
 				if (entry.isIntersecting) {
-					console.log(entry.target.dataset.src)
-					entry.target.src = entry.target.dataset.src
-					observer.unobserve(entry.target)
+					entry.target.src = entry.target.dataset.src;
+					observer.unobserve(entry.target);
 				}
 			})
-		}, { threshold: 0.5 })
-		document.querySelectorAll('img[data-src]').forEach(img => observer.observe(img))
+		}, { threshold: 0.5 });
+		document.querySelectorAll('img[data-src]').forEach(img => observer.observe(img));
 	}
 }
