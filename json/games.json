@@ -135,6 +135,16 @@ $gamesData = [
 		]
 	},
 	{
+		"title" : "Jack the Ripper",
+		"items" : [
+			{
+				"title" : "Jack the Ripper",
+				"date" : "2004",
+				"img" : "img/game/jack_the_reaper.jpg",
+			},
+		]
+	},
+	{
 		"title" : "Left 4 Dead",
 		"items" : [
 			{
