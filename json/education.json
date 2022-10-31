@@ -3,9 +3,164 @@ $educationData = [
 		"title" : "ITVDN",
 		"items" : [
 			{
-				"title" : "PHP Стартовый renewed",
+				"title" : "HTML Coder",
+				"date" : "09.06.2022",
+				"img" : "https://testprovider.com/ru/certificate/TP72086775D?46768",
+			},
+			{
+				"title" : "PHP Essential",
+				"date" : "30.07.2022",
+				"img" : "https://testprovider.com/ru/certificate/TP78870870?98354",
+			},
+			{
+				"title" : "HTML5 & CSS3 Starter 2022",
+				"date" : "09.06.2022",
+				"img" : "https://testprovider.com/ru/certificate/TP49799331?19440",
+			},
+			{
+				"title" : "Practical Landing Course",
+				"date" : "08.06.2022",
+				"img" : "https://testprovider.com/ru/certificate/TP50107059?867",
+			},
+			{
+				"title" : "HTML5&CSS3 Advanced",
+				"date" : "03.06.2022",
+				"img" : "https://testprovider.com/ru/certificate/TP06452781?7777",
+			},
+			{
+				"title" : "JavaScript Starter",
+				"date" : "28.05.2022",
+				"img" : "https://testprovider.com/ru/certificate/TP58935892?26359",
+			},
+			{
+				"title" : "PHP Starter renewed",
 				"date" : "20.05.2022",
-				"img" : "img/education/TP86396263-front.jpg",
+				"img" : "https://testprovider.com/ru/certificate/TP86396263?45777",
+			},
+			{
+				"title" : "Twitter Bootstrap 4",
+				"date" : "16.05.2022",
+				"img" : "https://testprovider.com/ru/certificate/TP83741875?45603",
+			},
+			{
+				"title" : "Layout of pages using Grid",
+				"date" : "10.05.2022",
+				"img" : "https://testprovider.com/ru/certificate/TP65927987?4740",
+			},
+			{
+				"title" : "Git basics",
+				"date" : "30.04.2022",
+				"img" : "https://testprovider.com/ru/certificate/TP75086948?47301",
+			},
+			{
+				"title" : "HTML5&CSS3 Essential",
+				"date" : "18.04.2022",
+				"img" : "https://testprovider.com/ru/certificate/TP90899534?76696",
+			},
+			{
+				"title" : "HTML5&CSS3 Starter",
+				"date" : "28.02.2021",
+				"img" : "https://testprovider.com/ru/certificate/TP14961408?21795",
+			},
+			{
+				"title" : "PHP Essential",
+				"date" : "16.04.2020",
+				"img" : "https://testprovider.com/ru/certificate/TP17326291?87942",
+			},
+			{
+				"title" : "HTML, CSS",
+				"date" : "20.02.2020",
+				"img" : "https://testprovider.com/ru/certificate/TP53664383?54352",
+			},
+			{
+				"title" : "PHP Starter",
+				"date" : "09.01.2020",
+				"img" : "https://testprovider.com/ru/certificate/TP80707179?39561",
+			},
+		]
+	},
+	{
+		"title" : "Bitrix",
+		"items" : [
+			{
+				"title" : "Базовий курс партнера «Бітрікс24»",
+				"date" : "5 октября 2021",
+				"img" : "img/education/bitrix/Базовий курс партнера «Бітрікс24»-1.png",
+			},
+			{
+				"title" : "Многосайтовость",
+				"date" : "28 ноября 2018",
+				"img" : "img/education/bitrix/Многосайтовость(1)-1.png",
+			},
+			{
+				"title" : "Установка и настройка",
+				"date" : "15 октября 2015",
+				"img" : "img/education/bitrix/Установка и настройка(1)-1.png",
+			},
+			{
+				"title" : "Технология Композитный сайт",
+				"date" : "3 января 2016",
+				"img" : "img/education/bitrix/Технология Композитный сайт-1.png",
+			},
+			{
+				"title" : "Разработчик Bitrix Framework",
+				"date" : "3 января 2016",
+				"img" : "img/education/bitrix/Разработчик Bitrix Framework-1.png",
+			},
+			{
+				"title" : "Администратор. Бизнес",
+				"date" : "14 декабря 2015",
+				"img" : "img/education/bitrix/Администратор. Бизнес-1.png",
+			},
+			{
+				"title" : "Администратор. Модули",
+				"date" : "2 декабря 2015",
+				"img" : "img/education/bitrix/Администратор. Модули-1.png",
+			},
+			{
+				"title" : "Администратор. Базовый",
+				"date" : "15 октября 2015",
+				"img" : "img/education/bitrix/Администратор. Базовый-1.png",
+			},
+			{
+				"title" : "Контент-менеджер",
+				"date" : "16 января 2012",
+				"img" : "img/education/bitrix/Контент-менеджер-1.png",
+			},
+			{
+				"title" : "Многосайтовость",
+				"date" : "14 февраля 2014",
+				"img" : "img/education/bitrix/Многосайтовость-1.png",
+			},
+			{
+				"title" : "Конфигурирование веб-систем для оптимальной работы",
+				"date" : "12 января 2014",
+				"img" : "img/education/bitrix/Конфигурирование веб-систем для оптимальной работы-1.png",
+			},
+			{
+				"title" : "Интеграция",
+				"date" : "3 января 2014",
+				"img" : "img/education/bitrix/Интеграция-1.png",
+			},
+			{
+				"title" : "Установка и настройка",
+				"date" : "24 июня 2013",
+				"img" : "img/education/bitrix/Установка и настройка-1.png",
+			},
+			{
+				"title" : "Элементы управления. Обучающий курс",
+				"date" : "20 сентября 2012",
+				"img" : "img/education/bitrix/Элементы управления. Обучающий курс-1.png",
+			},
+			{
+				"title" : "Визуальный HTML-редактор",
+				"date" : "29 июня 2012",
+				"img" : "img/education/bitrix/Визуальный HTML-редактор-1.png",
+			},
+			{
+				"title" : "Компоненты 2.0",
+				"date" : "15 июня 2012",
+				"img" : "img/education/bitrix/Компоненты 2.0-1.png",
 			},
 		]
 	},
