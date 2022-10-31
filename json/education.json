@@ -93,19 +93,14 @@ $educationData = [
 				"img" : "img/education/bitrix/Многосайтовость(1)-1.png",
 			},
 			{
-				"title" : "Установка и настройка",
-				"date" : "15.10.2015",
-				"img" : "img/education/bitrix/Установка и настройка(1)-1.png",
+				"title" : "Разработчик Bitrix Framework",
+				"date" : "03.01.2016",
+				"img" : "img/education/bitrix/Разработчик Bitrix Framework-1.png",
 			},
 			{
 				"title" : "Технология Композитный сайт",
 				"date" : "03.01.2016",
 				"img" : "img/education/bitrix/Технология Композитный сайт-1.png",
-			},
-			{
-				"title" : "Разработчик Bitrix Framework",
-				"date" : "03.01.2016",
-				"img" : "img/education/bitrix/Разработчик Bitrix Framework-1.png",
 			},
 			{
 				"title" : "Администратор. Бизнес",
@@ -123,9 +118,9 @@ $educationData = [
 				"img" : "img/education/bitrix/Администратор. Базовый-1.png",
 			},
 			{
-				"title" : "Контент-менеджер",
-				"date" : "16.01.2012",
-				"img" : "img/education/bitrix/Контент-менеджер-1.png",
+				"title" : "Установка и настройка",
+				"date" : "15.10.2015",
+				"img" : "img/education/bitrix/Установка и настройка(1)-1.png",
 			},
 			{
 				"title" : "Многосайтовость",
@@ -161,6 +156,11 @@ $educationData = [
 				"title" : "Компоненты 2.0",
 				"date" : "15.06.2012",
 				"img" : "img/education/bitrix/Компоненты 2.0-1.png",
+			},
+			{
+				"title" : "Контент-менеджер",
+				"date" : "16.01.2012",
+				"img" : "img/education/bitrix/Контент-менеджер-1.png",
 			},
 		]
 	},
