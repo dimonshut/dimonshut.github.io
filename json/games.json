@@ -210,6 +210,16 @@ $gamesData = [
 		]
 	},
 	{
+		"title" : "Painkiller: Black Edition",
+		"items" : [
+			{
+				"title" : "Painkiller: Black Edition",
+				"date" : "2004",
+				"img" : "img/game/painkiller.jpg",
+			},
+		]
+	},
+	{
 		"title" : "Portal",
 		"items" : [
 			{
