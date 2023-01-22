@@ -3,14 +3,14 @@ $educationData = [
 		"title" : "ITVDN",
 		"items" : [
 			{
-				"title" : "HTML Coder",
-				"date" : "09.06.2022",
-				"img" : "https://testprovider.com/ru/certificate/TP72086775D?46768",
-			},
-			{
 				"title" : "PHP Essential",
 				"date" : "30.07.2022",
 				"img" : "https://testprovider.com/ru/certificate/TP78870870?98354",
+			},
+			{
+				"title" : "DIPLOMA: HTML Coder",
+				"date" : "09.06.2022",
+				"img" : "https://testprovider.com/ru/certificate/TP72086775D?46768",
 			},
 			{
 				"title" : "HTML5 & CSS3 Starter 2022",
