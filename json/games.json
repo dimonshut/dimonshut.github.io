@@ -25,6 +25,16 @@ $gamesData = [
 		]
 	},
 	{
+		"title" : "Dying Light",
+		"items" : [
+			{
+				"title" : "Dying Light",
+				"date" : "2015",
+				"img" : "img/game/dl-1.webp",
+			},
+		]
+	},
+	{
 		"title" : "Fallout",
 		"items" : [
 			{
