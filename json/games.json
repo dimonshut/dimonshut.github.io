@@ -1,5 +1,15 @@
 $gamesData = [
 	{
+		"title" : "Days Gone",
+		"items" : [
+			{
+				"title" : "Days Gone",
+				"date" : "2021",
+				"img" : "img/game/daysgone.jpg",
+			},
+		]
+	},
+	{
 		"title" : "Diablo",
 		"items" : [
 			{
