@@ -180,6 +180,21 @@ $gamesData = [
 		]
 	},
 	{
+		"title" : "Little Nightmares",
+		"items" : [
+			{
+				"title" : "Little Nightmares",
+				"date" : "2017",
+				"img" : "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Little_Nightmares_Box_Art.png/220px-Little_Nightmares_Box_Art.png",
+			},
+			{
+				"title" : "Little Nightmares II",
+				"date" : "2021",
+				"img" : "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Little_Nightmares_II_cover.jpg/220px-Little_Nightmares_II_cover.jpg",
+			},
+		]
+	},
+	{
 		"title" : "Mafia",
 		"items" : [
 			{
