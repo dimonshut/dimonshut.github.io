@@ -128,6 +128,11 @@ $gamesData = [
 				"img" : "img/game/suyon31rxuc3q8y5uhj2ktewb835blru.jpg",
 			},
 			{
+				"title" : "Half-Life: Blue Shift",
+				"date" : "2001",
+				"img" : "img/game/Half-Life_Blue_Shift_box.jpg",
+			},
+			{
 				"title" : "Half-Life 2",
 				"date" : "2004",
 				"img" : "img/game/fvmabmhzeulmcs48v5w87rjy4ho9dy57.jpg",
