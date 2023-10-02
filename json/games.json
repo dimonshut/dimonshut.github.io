@@ -128,6 +128,11 @@ $gamesData = [
 				"img" : "img/game/suyon31rxuc3q8y5uhj2ktewb835blru.jpg",
 			},
 			{
+				"title" : "Half-Life: Opposing Force",
+				"date" : "1999",
+				"img" : "img/game/Half-Life_Opposing_Force_box.jpg",
+			},
+			{
 				"title" : "Half-Life: Blue Shift",
 				"date" : "2001",
 				"img" : "img/game/Half-Life_Blue_Shift_box.jpg",
