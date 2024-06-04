@@ -280,6 +280,16 @@ $gamesData = [
 		]
 	},
 	{
+		"title" : "Stray",
+		"items" : [
+			{
+				"title" : "Stray",
+				"date" : "2022",
+				"img" : "img/game/stray.jpg",
+			},
+		]
+	},
+	{
 		"title" : "Tekken",
 		"items" : [
 			{
