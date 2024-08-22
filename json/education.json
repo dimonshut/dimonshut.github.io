@@ -3,6 +3,11 @@ $educationData = [
 		"title" : "ITVDN",
 		"items" : [
 			{
+				"title" : "Node.js Базовий",
+				"date" : "28.07.2024",
+				"img" : "https://testprovider.com/ru/certificate/tp01438273",
+			},
+			{
 				"title" : "PHP Essential",
 				"date" : "30.07.2022",
 				"img" : "https://testprovider.com/ru/certificate/TP78870870?98354",
