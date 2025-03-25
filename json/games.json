@@ -1,5 +1,15 @@
 $gamesData = [
 	{
+		"title" : "A Way Out",
+		"items" : [
+			{
+				"title" : "A Way Out",
+				"date" : "2018",
+				"img" : "img/game/1705299173_library_600x900_2x.jpg",
+			},
+		]
+	},
+	{
 		"title" : "Days Gone",
 		"items" : [
 			{
@@ -161,6 +171,16 @@ $gamesData = [
 				"title" : "Injustice: Gods Among Us",
 				"date" : "2013",
 				"img" : "img/game/0du1hjnsqgkdw3gno2bmgzg82dtjjtx4.jpg",
+			},
+		]
+	},
+	{
+		"title" : "It Takes Two",
+		"items" : [
+			{
+				"title" : "It Takes Two",
+				"date" : "2021",
+				"img" : "img/game/It_Takes_Two_cover.png",
 			},
 		]
 	},
