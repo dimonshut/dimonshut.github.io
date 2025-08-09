@@ -90,14 +90,30 @@ window.onload = function() {
 
 	lazyLoad();
 	function lazyLoad() {
-		const observer = new IntersectionObserver((entries, observer) => {
-			entries.forEach(entry => {
-				if (entry.isIntersecting) {
-					entry.target.src = entry.target.dataset.src;
-					observer.unobserve(entry.target);
-				}
-			})
-		}, { threshold: 0.5 });
-		document.querySelectorAll('img[data-src]').forEach(img => observer.observe(img));
+		let $imgs = Array.from(document.querySelectorAll('img[data-src]'));
+		let $index = 0;
+
+		function loadNext() {
+			if ($index >= $imgs.length) return; // done
+			let $img = $imgs[$index++];
+
+			if ($img.getAttribute('src')) {
+				loadNext();
+				return;
+			}
+
+			const onDone = () => {
+				$img.removeEventListener('load', onDone);
+				$img.removeEventListener('error', onDone);
+				$img.removeAttribute('data-src');
+				loadNext();
+			};
+
+			$img.addEventListener('load', onDone);
+			$img.addEventListener('error', onDone);
+			$img.src = $img.dataset.src;
+		}
+
+		loadNext();
 	}
 }
